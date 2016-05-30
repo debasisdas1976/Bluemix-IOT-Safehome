@@ -48,7 +48,7 @@ Download the mobile application code from here. Make necessary changes as descri
 
 #Step 6 
 Import the NODE-RED project. Make necessary configuration changes.
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=/Node-Red/ # [required])
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=/SafeHome-NodeRed/ # [required])
 
 #Step 7
 
