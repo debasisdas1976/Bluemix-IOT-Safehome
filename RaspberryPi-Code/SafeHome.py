@@ -193,12 +193,12 @@ def myCommandCallback(cmd):
 #####################################
 #FILL IN THESE DETAILS
 #####################################     
-organization = "xd9zhe"
-deviceType = "Home_Sensors"
-deviceId = "b827eb8a828c"
+organization = "ORG_NAME"
+deviceType = "DEVICE_TYPE"
+deviceId = "DEVICE_ID"
 appId = str(uuid.uuid4())
 authMethod = "token"
-authToken = "3X9!Z_2YBYpNq_moP&"
+authToken = "AUTH_TOKEN"
 
 # Initialize the device client.
 try:
