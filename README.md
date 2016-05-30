@@ -37,8 +37,8 @@ Connect all the sensors to your raspberry Pi. If you need help on how to connect
 #Step 3
 
 Copy the [SafeHome.py](RaspberryPi-Code/SafeHome.py) file to your Raspberry Pi. Create the following folder structures with read write permissions in your raspberry Pi.
-/home/pi/SafeHome/Token/
-/home/pi/SafeHome/Photos/
+#####/home/pi/SafeHome/Token/
+#####/home/pi/SafeHome/Photos/
 
 
 
