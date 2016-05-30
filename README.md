@@ -5,6 +5,10 @@ Find below the overall solution diagram.
 
 ![ScreenShot](/images/SafeHome-Overview.png)
 
+#How to Build the Application
+
+#Step 1
+
 You need a list of elements to build this solution. Find below the Bill of Material for this project.
 
 |Sl No    | Partn Name       |   Part Type   |Part Description                   |	URL                          | Quantity |
@@ -26,7 +30,15 @@ You need a list of elements to build this solution. Find below the Bill of Mater
 |15	| Breadboard   |	Breadboard	   |830 Points Rectangular Adhesive Back Solderless Prototype Breadboard MB-102 |	http://www.amazon.in/gp/product/B00NSXA7YK?psc=1&redirect=true&ref_=oh_aui_detailpage_o02_s00 | 1   |
 
 
+#Step 2
 
+Connect all the sensors to your raspberry Pi. If you need help on how to connect sensors to the Raspberry Pi, visit the complete blog [here].
+
+#Step 3
+
+Copy the [SafeHome.py](RaspberryPi-Code/SafeHome.py) file to your Raspberry Pi. Create the following folder structures with read write permissions in your raspberry Pi.
+/home/pi/SafeHome/Token/
+/home/pi/SafeHome/Photos/
 
 
 
