@@ -40,6 +40,29 @@ Copy the [SafeHome.py](RaspberryPi-Code/SafeHome.py) file to your Raspberry Pi. 
 #####/home/pi/SafeHome/Token/
 #####/home/pi/SafeHome/Photos/
 
+#Step 4
+Login to Bluemix and create the services as described in my Blog. Make the necessary configurations. After creating the service instance note down the Organization Name, Device Type, Device Id, Authentication Token  etc. and replace them in the SafeHome.py file.
+
+#Step 5
+Download the mobile application code from here. Make necessary changes as described.
+
+#Step 6 
+Import the NODE-RED project. Make necessary configuration changes.
+
+#Step 7
+
+Test the application
+Deploy the SafeHome.apk file in your mobile phone. Once the application is installed in your mobile, start the app.
+Execute the SafeHome.py program in your raspberry Pi by issuing the following command.
+'sudo python SafeHome.py'
+You should see some messages like as below.
+[screenshot]
+Now generate sample events by either opening the door, or waving your hand in front of PIR Sensor or by makking some noise near the sound sensor. You should see the notification appearing in your mobile. 
+
+
+
+
+
 
 
  
