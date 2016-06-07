@@ -48,10 +48,8 @@ Download the mobile application code from here. Make necessary changes as descri
 
 #Step 6 
 Import the NODE-RED project. Make necessary configuration changes.
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=/SafeHome-NodeRed/ # [required])
 
 #Step 7
-
 Test the application
 Deploy the SafeHome.apk file in your mobile phone. Once the application is installed in your mobile, start the app.
 Execute the SafeHome.py program in your raspberry Pi by issuing the following command.
